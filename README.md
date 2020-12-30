@@ -10,7 +10,7 @@ Online petition such as ‘We the people’, ‘Change.org’ and ‘Blue House 
 Among various online petition system, we selected ‘Blue House petition’. It is because 'Blue House petitioin' is one of the most active petition systems and it is also heavily influencing the South Korean society. We compared the tendency of frequency of news articles keywords, agree trend and tweets, and also compared difference in tendency of agree trend according to the emotions score of related news article comments. We were able to classify the petitions to Type N1, Type N2 based on the change of frequency of news articles keywords. We also classified the petitions by Type T1, Type T2 according to the change of tweets. Based on our classification, we discovered that there is a high correlation between the media and the petition system. And we also found out that online petition seems to have journalistic characteristics, since the online petitions create and deliver agendas. We concluded that it is hard to say that the number shown in the petition system is not exactly the same as public opinion. Also, we discovered that the higher the negative emotion, the more erratic the tweets trends tend to be.
 
 ### For further information
-For further information about the research, check out the pdf files in /full paper.
+For further information about the research, check out the pdf documents in /full paper.
 
 
 ## Examples of our result
