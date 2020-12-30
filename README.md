@@ -1,4 +1,4 @@
-# Analyzing the Reflection of Public Opinion in Online Petition Using Media Big Data
+# Analyzing the Reflection of Public Opinion in Online Petition sing Media Big Data
 미디어 빅 데이터 분석을 통한 청와대 국민청원의 여론 반영 분석 (강원과학고등학교 KSHS R&E)
 
 - This research has been submitted to the "2018 Youths in Creative Scientific Research(과학영재 창의연구 학술발표대회)", which was supported by the Korean Foundation for the Advance of Science and Creativity(KOFAC) and funded by the Korean government(MSIT). This research project has won the grand prize from the Minister of Science and ICT. With the grand prize, we were given the opportunity to present our acheivements in "Korea-Vietnam International Younth Science Conference" supported by the Korean and Vietnamese government. 
